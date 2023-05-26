@@ -41,8 +41,11 @@
     font-size: 20px;
   }
 }
+.button-container{
+  text-align: center;
+}
 
-.click-button {
+.button {
   background-color: #007bff;
   border: none;
   color: #ffffff;
